@@ -1,4 +1,4 @@
-# Java-Exam-Question
+# Java Exam Solutions
 
 This repository contains solutions to the Java programming questions that have been asked in my college exams. The goal is to organize and document these solutions for easy revision, sharing with peers, and tracking progress in Java programming.
 
@@ -12,9 +12,7 @@ These solutions are based on my understanding and learning. You are encouraged t
 
 # 📬 Contact
 
-If you find any issue or have suggestions, feel free to reach out:
+For feedback, collaboration, or questions, feel free to reach out:
 
-	 📧 Email: raajan.works@example.com
-
-
-	 🌐 GitHub: @rajan21045
+	📧 Email: raajan.works@gmail.com
+	🌐 GitHub: @rajan21045
