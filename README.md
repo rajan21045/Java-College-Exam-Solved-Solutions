@@ -13,7 +13,8 @@ These solutions are based on my understanding and learning. You are encouraged t
 # 📬 Contact
 
 If you find any issue or have suggestions, feel free to reach out:
-	•	📧 Email: raajan.works@example.com
+
+	 📧 Email: raajan.works@example.com
 
 
-	•	🌐 GitHub: @rajan21045
+	 🌐 GitHub: @rajan21045
