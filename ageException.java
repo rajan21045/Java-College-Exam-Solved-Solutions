@@ -7,15 +7,17 @@ import java.util.Scanner;
 public class ageException {
     public static void main(String[] args) {
         try{
+
             Scanner sc = new Scanner(System.in);
             System.out.println("Enter Your Age: ");
             int age = sc.nextInt();
+
             if(age<0) {
                 throw new Exception("You Have Entered A Negative Age");
             }
-            else {
-                System.out.println("Your Age Is: " + age);
-            }
+                    else {
+                            System.out.println("Your Age Is: " + age);
+                          }
             }catch(Exception e){
                 System.out.println("Error Occured: "+ e.getMessage());
             }
