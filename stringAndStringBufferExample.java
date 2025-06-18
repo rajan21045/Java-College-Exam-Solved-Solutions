@@ -1,5 +1,6 @@
 public class stringAndStringBufferExample {
     public static void main(String[] args) {
+
         System.out.println(" ");
         System.out.println(".............Example of String Modify.............");
 
