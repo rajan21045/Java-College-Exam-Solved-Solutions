@@ -22,11 +22,14 @@ public class students {
     }
 
     public static void main(String[] args) {
+
         students st1 = new students();
         students st2 = new students("Ram");
         students st3 = new students("Shayam", 20);
+
         st1.display();
         st2.display();
         st3.display();
+
     }
 }
