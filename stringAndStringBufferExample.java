@@ -10,7 +10,6 @@ public class stringAndStringBufferExample {
         String str2 = " Prabin ";
         System.out.println("Example Of Cancat Is "+ str.concat(str2));
 
-
         System.out.println("Before Converting To Uppercase of String(str) Is "+str+" " +"And After Converting To UpperCase Is "+str.toUpperCase());
 
         System.out.println("Before Converting To LowerCase of String(str) Is "+str+" " +"And After Converting To LowerCase Is "+str.toLowerCase());
