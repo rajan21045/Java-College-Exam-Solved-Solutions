@@ -1,4 +1,4 @@
-public class GarbageCollectionExample {
+ public class GarbageCollectionExample {
     // finalize() is called by GC before object is delete
     protected void finalize() throws Throwable {
         System.out.println("Object is garbage collected");
