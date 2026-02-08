@@ -3,7 +3,6 @@ public class Course {
     private int credit;
     private String courseCode;
     
-
     public void setValue(String title, int credit, String courseCode){
         this.title = title;
         this.credit = credit;
